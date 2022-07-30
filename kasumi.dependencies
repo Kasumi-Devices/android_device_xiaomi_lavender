@@ -1,0 +1,21 @@
+[
+  {
+    "repository": "YandereLab/android_device_xiaomi_sdm660-common",
+    "target_path": "device/xiaomi/sdm660-common",
+    "branch": "kasumi-v1"
+  },
+  {
+    "repository": "YandereLab/android_kernel_xiaomi_lavender-1",
+    "target_path": "kernel/xiaomi/lavender",
+    "branch": "kasumi-v1"
+  },
+  {
+    "repository": "YandereLab/android_vendor_xiaomi_lavender-1",
+    "target_path": "vendor/xiaomi/lavender",
+    "branch": "kasumi-v1"
+  },
+    "repository": "YandereLab/android_vendor_xiaomi_sdm660-common",
+    "target_path": "vendor/xiaomi/sdm660-common",
+    "branch": "kasumi-v1"
+  }
+]
